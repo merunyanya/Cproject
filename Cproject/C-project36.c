@@ -1,6 +1,3 @@
-//김수경
-//트럼프 카드 문제
-
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
