@@ -1,6 +1,3 @@
-// 최정현
-// 순위 계산
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
