@@ -1,12 +1,8 @@
-// 최정현
-// 이용자가 1명인 엘레베이터 운영 제어
-
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <windows.h> // Sleep 함수 사용
+#include <windows.h> 
 
 void intro();
 void moveElevator(int from, int to);
