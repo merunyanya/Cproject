@@ -1,6 +1,3 @@
-// 홍성제
-// 서기를 간지로 변환
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
