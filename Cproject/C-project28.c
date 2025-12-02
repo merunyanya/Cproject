@@ -1,7 +1,3 @@
-// 정재범
-// 특정일로부터 며칠 후 계산
-
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
