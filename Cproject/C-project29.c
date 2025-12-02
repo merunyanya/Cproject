@@ -1,6 +1,3 @@
-// 홍성제
-// 특정일의 요일 계산
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
