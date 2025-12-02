@@ -1,6 +1,3 @@
-// 김수경
-// 임의의 정수형 숫자에 대한 디지털 숫자 출력
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <string.h>
@@ -10,7 +7,8 @@ void input(char* answer);
 void compute(int* result, char* answer);
 void output(int* result, int len);
 
-const char* digits[5][10] = {
+const char* digits[5][10] =
+{
     {"###","  #","###","###","# #","###","###","###","###","###"},
     {"# #","  #","  #","  #","# #","#  ","#  ","  #","# #","# #"},
     {"# #","  #","###","###","###","###","###","  #","###","###"},
