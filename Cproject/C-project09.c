@@ -1,5 +1,4 @@
-// 홍성제
-// 고속도로 통행요금 계산
+
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
