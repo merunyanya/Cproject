@@ -1,7 +1,3 @@
-// 김수경
-// 소스 프로그램에 line 번호를 붙여 텍스트 파일로 출력
-
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
