@@ -1,6 +1,3 @@
-// 최정현
-// 동전 던지기 모의실험
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
