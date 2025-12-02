@@ -1,6 +1,3 @@
-// 홍성제
-// 사용자가 생각한 숫자를 컴퓨터가 맞히는 게임
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
