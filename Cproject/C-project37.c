@@ -1,6 +1,3 @@
-// 김수경
-// 기억력 테스트
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <string.h>
