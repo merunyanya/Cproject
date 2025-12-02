@@ -1,6 +1,3 @@
-// 정재범
-// 실수형 숫자의 카운트
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <string.h>
