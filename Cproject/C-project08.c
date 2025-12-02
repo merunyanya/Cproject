@@ -1,5 +1,3 @@
-// 정재범
-// 비만도의 측정과 판정
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
