@@ -1,7 +1,3 @@
-// 정재범
-// 문장에 사용된 알파벳, 숫자, 기타 문자의 카운트
-
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
