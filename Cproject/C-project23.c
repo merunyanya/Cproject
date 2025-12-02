@@ -1,6 +1,3 @@
-// 홍성제
-// 사칙연산 계산기
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <string.h>
