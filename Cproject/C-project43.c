@@ -1,6 +1,3 @@
-// 최정현
-// 발 크기에 대한 통계 조사
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <math.h>
@@ -53,7 +50,6 @@ void footd(int* foot)
 
 
 
-	// 평균 계산
 	for (int i = 0; i < 30; i++)
 	{
 		sum += foot[i];
@@ -62,7 +58,6 @@ void footd(int* foot)
 
 
 
-	// 표준편차 계산
 	for (int i = 0; i < 30; i++)
 	{
 		stdd += pow(foot[i] - sum, 2);
@@ -70,14 +65,13 @@ void footd(int* foot)
 	stdd = sqrt(stdd / 30);
 
 
-	// 범위 계산
+
 	int size = max - min;
 
 
 	output(min, max, sum, stdd, size);
 
 
-	// 사이즈 별 막대 그래프
 
 	for (int i = 0; i < 30; i++)
 	{
