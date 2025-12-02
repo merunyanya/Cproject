@@ -1,5 +1,4 @@
-// 정재범
-// 승용차 세금 계산
+
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
