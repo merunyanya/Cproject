@@ -1,6 +1,3 @@
-// 최정현
-// 두 사람씩 서로의 숫자 카드를 교환
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
