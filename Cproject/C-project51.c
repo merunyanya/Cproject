@@ -1,7 +1,3 @@
-// 김수경
-// 자동판매기 제어
-
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <Windows.h>
